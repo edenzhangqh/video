@@ -1,0 +1,93 @@
+{
+  "banner": [
+    {
+      "image": "/static/images/banner1.jpg",
+      "id": "activity_4",
+      "link": "/activity"
+    },
+    {
+      "image": "/static/images/banner2.jpg",
+      "id": "activity_5",
+      "link": "/activity"
+    },
+    {
+      "image": "/static/images/banner3.jpg",
+      "id": "activity_6",
+      "link": "/activity"
+    }
+  ],
+  "data":[
+    {
+      "id": 2,
+      "title": "夏款时尚条纹小脚裤棉麻上衣两件套",
+      "src": "http://cloud.video.taobao.com/play/u/1/p/1/e/6/t/1/50001084931.mp4",
+      "link": "https://item.taobao.com/item.htm?id=550539145383&ali_trackid=2:mm_35638571_4680704_30270002:1501722949_215_329651875&upsid=803e1af8ca51fc51b566eeded9a54df8&clk1=803e1af8ca51fc51b566eeded9a54df8",
+      "image": "/static/images/product3.jpg",
+      "desc": "天气渐渐变暖，出去聚会运动还是要化个美美的装束~~而额外问我得分三等份水果大法官地方发特委托惹眼太热突然突然而惹眼而额使得法国三等功水果多少个大法官地方地方发三等份惹她惹眼太热突然突然亚特一头热而",
+      "price": 29.9,
+      "view": 3660,
+      "comment": 200,
+      "collect": 598,
+      "time": "50分钟之前",
+      "sales": 5000,
+      "types": 1,
+      "jsonName": "product_1",
+      "timeSort":2,
+      "original":2
+    },
+    {
+      "id": 3,
+      "title": "夏款时尚条纹小脚裤棉麻上衣两件套",
+      "src": "http://cloud.video.taobao.com/play/u/1/p/1/e/6/t/1/50001084931.mp4",
+      "link": "https://item.taobao.com/item.htm?id=550539145383&ali_trackid=2:mm_35638571_4680704_30270002:1501722949_215_329651875&upsid=803e1af8ca51fc51b566eeded9a54df8&clk1=803e1af8ca51fc51b566eeded9a54df8",
+      "image": "/static/images/product2.jpg",
+      "desc": "天气渐渐变暖，出去聚会运动还是要化个美美的装束~~而额外问我得分三等份水果大法官地方发特委托惹眼太热突然突然而惹眼而额使得法国三等功水果多少个大法官地方地方发三等份惹她惹眼太热突然突然亚特一头热而",
+      "price": 29.9,
+      "view": 3661,
+      "comment": 200,
+      "collect": 598,
+      "time": "50分钟之前",
+      "sales": 5000,
+      "types": 1,
+      "jsonName": "product_1",
+      "timeSort":3,
+      "original":3
+    },
+    {
+      "id": 4,
+      "title": "夏款时尚条纹小脚裤棉麻上衣两件套",
+      "src": "http://cloud.video.taobao.com/play/u/1/p/1/e/6/t/1/50001084931.mp4",
+      "link": "https://item.taobao.com/item.htm?id=550539145383&ali_trackid=2:mm_35638571_4680704_30270002:1501722949_215_329651875&upsid=803e1af8ca51fc51b566eeded9a54df8&clk1=803e1af8ca51fc51b566eeded9a54df8",
+      "image": "/static/images/product1.jpg",
+      "desc": "天气渐渐变暖，出去聚会运动还是要化个美美的装束~~而额外问我得分三等份水果大法官地方发特委托惹眼太热突然突然而惹眼而额使得法国三等功水果多少个大法官地方地方发三等份惹她惹眼太热突然突然亚特一头热而",
+      "price": 29.9,
+      "view": 3662,
+      "comment": 200,
+      "collect": 598,
+      "time": "50分钟之前",
+      "sales": 5000,
+      "types": 1,
+      "jsonName": "product_1",
+      "timeSort":4,
+      "original":5
+    },
+    {
+      "id": 5,
+      "title": "夏款时尚条纹小脚裤棉麻上衣两件套",
+      "src": "http://cloud.video.taobao.com/play/u/1/p/1/e/6/t/1/50001084931.mp4",
+      "link": "https://item.taobao.com/item.htm?id=550539145383&ali_trackid=2:mm_35638571_4680704_30270002:1501722949_215_329651875&upsid=803e1af8ca51fc51b566eeded9a54df8&clk1=803e1af8ca51fc51b566eeded9a54df8",
+      "image": "/static/images/product3.jpg",
+      "desc": "天气渐渐变暖，出去聚会运动还是要化个美美的装束~~而额外问我得分三等份水果大法官地方发特委托惹眼太热突然突然而惹眼而额使得法国三等功水果多少个大法官地方地方发三等份惹她惹眼太热突然突然亚特一头热而",
+      "price": 29.9,
+      "view": 3663,
+      "comment": 200,
+      "collect": 598,
+      "time": "50分钟之前",
+      "sales": 5000,
+      "types": 1,
+      "jsonName": "product_1",
+      "timeSort":5,
+      "original":4
+    }
+  ]
+}
